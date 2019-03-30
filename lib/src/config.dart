@@ -1,4 +1,4 @@
-final String mainApiUrl = "https://client.kurd.app/wp-json";
+final String mainApiUrl = "https://www.lemedia.sn/wp-json";
 
 //Show how many per_page
 final String perPage = "10";
